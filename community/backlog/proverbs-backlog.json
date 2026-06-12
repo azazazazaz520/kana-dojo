@@ -6,7 +6,7 @@
     "english": "One stone, two birds",
     "meaning": "Accomplishing two things with one action",
     "completed": false,
-    "issued": false
+    "issued": true
   },
   {
     "id": 2,
@@ -159,7 +159,7 @@
     "english": "If fish has heart, water has heart",
     "meaning": "Good intentions will be reciprocated",
     "completed": false,
-    "issued": false
+    "issued": true
   },
   {
     "id": 19,
@@ -258,7 +258,7 @@
     "english": "One time, one meeting",
     "meaning": "Treasure every encounter, for it will never recur",
     "completed": false,
-    "issued": false
+    "issued": true
   },
   {
     "id": 30,
@@ -420,7 +420,7 @@
     "english": "Even a packhorse driver looks good in fine clothes",
     "meaning": "Clothes make the person",
     "completed": false,
-    "issued": false
+    "issued": true
   },
   {
     "id": 48,
@@ -447,7 +447,7 @@
     "english": "Giving birth is easier than worrying",
     "meaning": "Doing is often easier than worrying",
     "completed": false,
-    "issued": false
+    "issued": true
   },
   {
     "id": 51,
@@ -501,7 +501,7 @@
     "english": "A rice cake falls from the shelf",
     "meaning": "A windfall; unexpected good luck",
     "completed": false,
-    "issued": false
+    "issued": true
   },
   {
     "id": 57,
@@ -618,7 +618,7 @@
     "english": "Good medicine tastes bitter",
     "meaning": "Helpful advice can be hard to hear",
     "completed": false,
-    "issued": false
+    "issued": true
   },
   {
     "id": 70,
@@ -717,7 +717,7 @@
     "english": "The moon and a turtle",
     "meaning": "Vast difference; not comparable",
     "completed": false,
-    "issued": false
+    "issued": true
   },
   {
     "id": 81,
@@ -788,7 +788,7 @@
     "romaji": "Nai sode wa furenu",
     "english": "You can't shake a sleeve you don't have",
     "meaning": "You can't give what you don't have",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -915,7 +915,7 @@
     "english": "What happens twice will happen a third time",
     "meaning": "Patterns tend to repeat",
     "completed": false,
-    "issued": false
+    "issued": true
   },
   {
     "id": 103,
@@ -996,7 +996,7 @@
     "english": "It's darkest under the lighthouse",
     "meaning": "The obvious is often overlooked",
     "completed": false,
-    "issued": false
+    "issued": true
   },
   {
     "id": 112,
@@ -1005,7 +1005,7 @@
     "english": "A journey of a thousand miles begins with one step",
     "meaning": "Start small to reach big goals",
     "completed": false,
-    "issued": false
+    "issued": true
   },
   {
     "id": 113,
@@ -1068,7 +1068,7 @@
     "english": "One who chases two rabbits catches neither",
     "meaning": "Focus on one thing at a time",
     "completed": false,
-    "issued": false
+    "issued": true
   },
   {
     "id": 120,
@@ -1077,7 +1077,7 @@
     "english": "Fortune comes to a laughing gate",
     "meaning": "Happiness brings good fortune",
     "completed": false,
-    "issued": false
+    "issued": true
   },
   {
     "id": 121,
@@ -1086,7 +1086,7 @@
     "english": "Fall seven times, get up eight",
     "meaning": "Never give up",
     "completed": false,
-    "issued": false
+    "issued": true
   },
   {
     "id": 122,
@@ -1257,7 +1257,7 @@
     "english": "A rice cake falls from the shelf",
     "meaning": "Unexpected good luck",
     "completed": false,
-    "issued": false
+    "issued": true
   },
   {
     "id": 141,
